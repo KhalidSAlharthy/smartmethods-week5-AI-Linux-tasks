@@ -8,4 +8,4 @@ This repository includes the links to my **Week 5** internship tasks at **Smart 
 ## 🔗 Task Links
 
 - 🐧 **Linux Task**: [Open Link](https://github.com/KhalidSAlharthy/linux-file-permissions/tree/main)
-- 🤖 **AI Task**: [Open Link]([https://your-ai-task-link](https://github.com/KhalidSAlharthy/-ROS-2-Turtlesim-Manipulation/tree/main))
+- 🤖 **AI Task**: [Open Link](https://your-ai-task-link](https://github.com/KhalidSAlharthy/-ROS-2-Turtlesim-Manipulation/tree/main)
